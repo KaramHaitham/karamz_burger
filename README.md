@@ -1,3 +1,13 @@
+# Karam's Burger
+## live demo https://karamzburger.herokuapp.com/
+```
+This is a React project
+Bundeled with webpack
+Transpiled with babel for backwards compatibility and browser support for all javascript versions es5 and es6 and esNext
+and Eslint for coding standards  
+ 
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
